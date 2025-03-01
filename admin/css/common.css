@@ -1,0 +1,86 @@
+/* Define Poppins font weights and styles */
+:root{
+  --teal:#2eccac;
+  --teal_hover:#279e8c;
+
+}
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  /* Define other Poppins font weights and styles as needed */
+  
+  /* Define Merienda font */
+  .merienda-thin {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .merienda-extralight {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  /* Define other Merienda font weights and styles as needed */
+  
+  /* Remove browser default styling for number input */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  /* Firefox */
+  input[type=number] {
+    -moz-appearaSnce: textfield;
+  }
+  
+  /* Define custom background color and hover effect */
+  .custom-bg{
+    background-color:var(--teal);
+    border :1px solid (--teal);
+  }
+  
+  .custom-bg:hover{
+    background-color: var(--teal_hover);
+    border-color:var(--teal_hover);
+  }
+  .h-line
+  {
+    width:150px;
+    margin:0 auto;
+    height:1.7px;
+  }
+
+  .custom-alert
+  {
+    position:fixed;
+    top:25px;
+    right:25px;
+  }
+#dashboard-menu{
+  position:fixed;
+  height:100%;
+}
+@media  screen and (max-width:992px) {
+  #dashboard-menu{
+    
+    height:auto;
+    width:100%;
+  }
+  #main-content{
+      margin-top:60px;
+  }
+}

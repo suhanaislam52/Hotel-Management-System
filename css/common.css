@@ -1,0 +1,63 @@
+/*poppins*/
+:root{
+  --teal:#2eccac;
+  --teal_hover:#279e8c;
+
+}
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  
+  /*Merienda*/
+  .merienda-thin {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .merienda-extralight {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  
+ 
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+ 
+  input[type=number] {
+    -moz-appearaSnce: textfield;
+  }
+  
+  
+  .custom-bg{
+    background-color:var(--teal);
+    border :1px solid (--teal);
+  }
+  
+  .custom-bg:hover{
+    background-color: var(--teal_hover);
+    border-color:var(--teal_hover);
+  }
+  .h-line
+  {
+    width:150px;
+    margin:0 auto;
+    height:1.7px;
+  }
