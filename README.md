@@ -108,10 +108,10 @@ Hotel-Management-System/
 ```
 8. **Contributing:**
    
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+ Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
   
 9. **License:**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+ This project is licensed under the MIT License - see the LICENSE file for details.
    
 
