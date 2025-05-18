@@ -78,7 +78,7 @@ A comprehensive web-based Hotel Management System developed using HTML, CSS, and
 7. **Project Structure:**
 
 ```bash
-   Hotel-Management-System/
+Hotel-Management-System/
 ├── admin/
 ├── css/
 ├── images/
