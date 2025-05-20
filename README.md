@@ -59,7 +59,7 @@ A comprehensive web-based Hotel Management System developed using HTML, CSS, and
 
 - Navigate to http://localhost/Hotel-Management-System/ in your web browser.
 
-5. **Usage:**
+## Usage:
 
 - Homepage: Provides an overview of the hotel and available services.
 
@@ -67,7 +67,7 @@ A comprehensive web-based Hotel Management System developed using HTML, CSS, and
 
 - Admin Panel: Accessible via admin/ directory, allowing administrators to manage bookings and services.
 
-6. **Technologies Used:**
+## Technologies Used:
 
 - Frontend: HTML, CSS
 
@@ -75,7 +75,7 @@ A comprehensive web-based Hotel Management System developed using HTML, CSS, and
 
 - Database: MySQL
 
-7. **Project Structure:**
+## Project Structure:
 
 ```bash
 Hotel-Management-System/
@@ -106,11 +106,11 @@ Hotel-Management-System/
 ├── viewbookings.php
 └── README.md
 ```
-8. **Contributing:**
+## Contributing:
    
  Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
   
-9. **License:**
+## License:
 
  This project is licensed under the MIT License - see the LICENSE file for details.
    
